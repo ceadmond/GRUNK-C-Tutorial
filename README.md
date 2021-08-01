@@ -1,2 +1,2 @@
-# GRUNK-C-Tutorial
-GRUNK C Tutorial
+# C-Tutorial
+C Tutorial
